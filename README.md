@@ -42,9 +42,10 @@
 | Project | Tutorial | Status |
 |----------|----------------|-----|
 | Inery | [Link](https://t.me/unikii) | Testnet |
-| Zkapp; Mina| [Link](https://t.me/unikii) | Testnet |
+| Zkapp; Mina| [Link](https://github.com/DaddyUnikii/How-to-install-04-zkapp-browser-ui-on-MINA-Protocol) | Testnet |
 | Gitopia | [Link](https://t.me/unikii) | Testnet |
 | Meson | [Link](https://t.me/unikii) | Testnet |
+| Starknet | [Link](https://t.me/unikii) | Testnet |
 | Mises | [Link](https://t.me/unikii) | Mainnet |
 | ICW | [Link](https://t.me/unikii) | Mainnet |
 
