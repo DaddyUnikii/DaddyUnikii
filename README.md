@@ -42,6 +42,7 @@
 |----------|----------------|-----|
 | Inery | [Link](https://t.me/unikii) | Testnet |
 | Zkapp; Mina| [Link](https://github.com/DaddyUnikii/How-to-install-04-zkapp-browser-ui-on-MINA-Protocol) | Testnet |
+| Deinfra | [Link](https://github.com/DaddyUnikii/Deinfra-Testnet) ; [Deinfra Tea Ceremony](https://github.com/DaddyUnikii/Deinfra-Testnet/blob/main/Deinfra%20Tea%20Ceremony.md) | Testnet |
 | Gitopia | [Link](https://t.me/unikii) | Testnet |
 | Meson | [Link](https://t.me/unikii) | Testnet |
 | Starknet | [Link](https://t.me/unikii) | Testnet |
