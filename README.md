@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://x.com/rdfrlyrdfrly"><img src="https://img.shields.io/badge/X-@rdfrlyrdfrly-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://x.com/0xginn_"><img src="https://img.shields.io/badge/X-@0xginn__-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
   <a href="https://t.me/unikii"><img src="https://img.shields.io/badge/Telegram-unikii-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=DaddyUnikii&style=for-the-badge&color=7F5AF0&label=PROFILE+VIEWS"/>
 </p>
