@@ -73,7 +73,7 @@ Crypto price checker compiled from Rust to WebAssembly, running entirely in the 
 <td width="50%" valign="top">
 
 ### 🧾 [simple-nft-contract](https://github.com/DaddyUnikii/simple-nft-contract)
-Minimal ERC-721 minting contract with paid mint and owner withdraw.
+Minimal ERC-721 contract: paid public mint, owner mint to any address, and updatable IPFS token URIs.
 
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![ERC-721](https://img.shields.io/badge/ERC--721-NFT-F7931A?style=flat-square)
