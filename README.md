@@ -37,12 +37,50 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="32"/> Featured projects
 
-<p align="center">
-  <a href="https://github.com/DaddyUnikii/crypto-glossary-rust"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DaddyUnikii&repo=crypto-glossary-rust&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/DaddyUnikii/crypto-checker-wasm"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DaddyUnikii&repo=crypto-checker-wasm&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/DaddyUnikii/simple-nft-contract"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DaddyUnikii&repo=simple-nft-contract&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/DaddyUnikii/book-recommender-flask"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DaddyUnikii&repo=book-recommender-flask&theme=tokyonight&hide_border=true" /></a>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔎 [rarityscope](https://github.com/DaddyUnikii/rarityscope)
+Zero-dependency CLI that ranks NFT collections by trait rarity straight from metadata. Scores, tiers, trait distribution, JSON output.
+
+[![CI](https://github.com/DaddyUnikii/rarityscope/actions/workflows/ci.yml/badge.svg)](https://github.com/DaddyUnikii/rarityscope/actions/workflows/ci.yml)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NFT](https://img.shields.io/badge/ERC--721-metadata-7F5AF0?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 📡 [ChainPulse](https://github.com/DaddyUnikii/Chainpulse)
+Health checks for EVM RPC endpoints: latest block, chain ID and latency, in one fast command.
+
+[![CI](https://github.com/DaddyUnikii/Chainpulse/actions/workflows/ci.yml/badge.svg)](https://github.com/DaddyUnikii/Chainpulse/actions/workflows/ci.yml)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![EVM](https://img.shields.io/badge/EVM-JSON--RPC-627EEA?style=flat-square&logo=ethereum&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🦀 [crypto-checker-wasm](https://github.com/DaddyUnikii/crypto-checker-wasm)
+Crypto price checker compiled from Rust to WebAssembly, running entirely in the browser.
+
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧾 [simple-nft-contract](https://github.com/DaddyUnikii/simple-nft-contract)
+Minimal ERC-721 minting contract with paid mint and owner withdraw.
+
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![ERC-721](https://img.shields.io/badge/ERC--721-NFT-F7931A?style=flat-square)
+
+</td>
+</tr>
+</table>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="32"/> Node & validator journey
 
