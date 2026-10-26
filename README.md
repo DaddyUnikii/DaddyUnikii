@@ -32,6 +32,19 @@ I build small, well-tested tools for <b>NFT analytics</b>, <b>RPC infra</b> and 
 
 <table>
 <tr>
+<td colspan="2" align="center" valign="top">
+<br/>
+<h3><a href="https://github.com/DaddyUnikii/signread">🔏 signread</a></h3>
+<sub>Reads a wallet signature request before you sign it.<br/>Rules decide the risk, a local open-weight model explains it.</sub>
+<br/><br/>
+<a href="https://github.com/DaddyUnikii/signread/actions/workflows/ci.yml"><img src="https://github.com/DaddyUnikii/signread/actions/workflows/ci.yml/badge.svg" /></a>
+<img src="https://img.shields.io/badge/Node.js-161b22?style=flat-square&logo=nodedotjs&logoColor=339933" />
+<img src="https://img.shields.io/badge/Ollama-161b22?style=flat-square&logo=ollama&logoColor=white" />
+<a href="https://dev.to/0xxxxxxxx/signread-an-open-weight-model-that-reads-your-wallet-signature-before-you-sign-it-55a2"><img src="https://img.shields.io/badge/Read_on_DEV-161b22?style=flat-square&logo=devdotto&logoColor=white" /></a>
+<br/><br/>
+</td>
+</tr>
+<tr>
 <td width="50%" align="center" valign="top">
 <br/>
 <h3><a href="https://github.com/DaddyUnikii/approvalscan">🛡️ approvalscan</a></h3>
