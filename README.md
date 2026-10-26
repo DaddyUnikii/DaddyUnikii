@@ -34,6 +34,26 @@ I build small, well-tested tools for <b>NFT analytics</b>, <b>RPC infra</b> and 
 <tr>
 <td width="50%" align="center" valign="top">
 <br/>
+<h3><a href="https://github.com/DaddyUnikii/approvalscan">🛡️ approvalscan</a></h3>
+<sub>Finds every token & NFT approval still live<br/>on your wallet and ranks what to revoke.</sub>
+<br/><br/>
+<a href="https://github.com/DaddyUnikii/approvalscan/actions/workflows/ci.yml"><img src="https://github.com/DaddyUnikii/approvalscan/actions/workflows/ci.yml/badge.svg" /></a>
+<img src="https://img.shields.io/badge/Node.js-161b22?style=flat-square&logo=nodedotjs&logoColor=339933" />
+<br/><br/>
+</td>
+<td width="50%" align="center" valign="top">
+<br/>
+<h3><a href="https://github.com/DaddyUnikii/TV-Debloat">📺 TV-Debloat</a></h3>
+<sub>Debloat Android / Google TV from a phone<br/>with Termux + ADB. Safe, fully reversible.</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/Shell-161b22?style=flat-square&logo=gnubash&logoColor=4EAA25" />
+<img src="https://img.shields.io/badge/Android_TV-161b22?style=flat-square&logo=androidtv&logoColor=3DDC84" />
+<br/><br/>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<br/>
 <h3><a href="https://github.com/DaddyUnikii/rarityscope">🔎 rarityscope</a></h3>
 <sub>Zero-dependency CLI that ranks NFT collections<br/>by trait rarity straight from metadata.</sub>
 <br/><br/>
