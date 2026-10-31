@@ -15,6 +15,7 @@
 
 <a href="https://x.com/0xginn_"><img src="https://img.shields.io/badge/X-@0xginn__-8B5CF6?style=for-the-badge&logo=x&logoColor=white&labelColor=161b22" /></a>
 <a href="https://t.me/unikii"><img src="https://img.shields.io/badge/Telegram-unikii-8B5CF6?style=for-the-badge&logo=telegram&logoColor=white&labelColor=161b22" /></a>
+<a href="https://dev.to/0xxxxxxxx"><img src="https://img.shields.io/badge/DEV-Hacktoberfest_2026_Challenge-8B5CF6?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=161b22" /></a>
 <img src="https://komarev.com/ghpvc/?username=DaddyUnikii&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" />
 
 <br/><br/>
