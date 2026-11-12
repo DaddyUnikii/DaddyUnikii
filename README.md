@@ -145,6 +145,13 @@ I build small, well-tested tools for <b>NFT analytics</b>, <b>RPC infra</b> and 
 
 <img src="https://skillicons.dev/icons?i=rust,solidity,ts,js,nodejs,python,react,linux,docker,git,githubactions,vscode&theme=dark&perline=12" />
 
+<h2>💖 Support / Whitehat Tip Jar</h2>
+
+<p>
+If any of my open-source Web3 tools helped secure or recover your assets, feel free to drop a tip:<br/>
+<code>0x7EaB937302c35669AC5217bcC81DCEbaF3bc4F73</code> <sub>(ETH / BNB / USDT / Base / Arbitrum)</sub>
+</p>
+
 <h2>📊 GitHub Activity</h2>
 
 <img height="175" src="https://github-readme-stats.vercel.app/api?username=DaddyUnikii&show_icons=true&theme=github_dark&hide_border=true&icon_color=8B5CF6&title_color=8B5CF6&bg_color=0d1117&rank_icon=github" />
