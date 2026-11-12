@@ -145,7 +145,7 @@ I build small, well-tested tools for <b>NFT analytics</b>, <b>RPC infra</b> and 
 
 <img src="https://skillicons.dev/icons?i=rust,solidity,ts,js,nodejs,python,react,linux,docker,git,githubactions,vscode&theme=dark&perline=12" />
 
-<h2>💖 Support / Whitehat Tip Jar</h2>
+<h2>💖 Support Tip Jar</h2>
 
 <p>
 If any of my open-source Web3 tools helped secure or recover your assets, feel free to drop a tip:<br/>
