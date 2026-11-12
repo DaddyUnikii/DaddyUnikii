@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:5B21B6,100:8B5CF6&height=160&section=header&reversal=false" width="100%" />
 
@@ -32,6 +32,28 @@ I build small, well-tested tools for <b>NFT analytics</b>, <b>RPC infra</b> and 
 <h2>⚡ Featured Projects</h2>
 
 <table>
+<tr>
+<td width="50%" align="center" valign="top">
+<br/>
+<h3><a href="https://github.com/DaddyUnikii/rescue-x">🛡️ RescueX</a></h3>
+<sub>Bypasses sweeper bots to rescue stuck ERC-20s & NFTs<br/>via Flashbots, 48Club Puissant & EIP-2612 permits.</sub>
+<br/><br/>
+<a href="https://github.com/DaddyUnikii/rescue-x/actions/workflows/ci.yml"><img src="https://github.com/DaddyUnikii/rescue-x/actions/workflows/ci.yml/badge.svg" /></a>
+<img src="https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=3178C6" />
+<img src="https://img.shields.io/badge/Flashbots-161b22?style=flat-square&logo=ethereum&logoColor=8B5CF6" />
+<br/><br/>
+</td>
+<td width="50%" align="center" valign="top">
+<br/>
+<h3><a href="https://github.com/DaddyUnikii/riddlemine">⛏️ Riddlemine</a></h3>
+<sub>PoW subset-sum puzzle mining & dual-mode IEO<br/>written in Fe ≥26.5.0 for the Fe Builders Challenge.</sub>
+<br/><br/>
+<a href="https://github.com/DaddyUnikii/riddlemine/actions/workflows/ci.yml"><img src="https://github.com/DaddyUnikii/riddlemine/actions/workflows/ci.yml/badge.svg" /></a>
+<img src="https://img.shields.io/badge/Fe_Lang-161b22?style=flat-square&logo=ethereum&logoColor=F59E0B" />
+<img src="https://img.shields.io/badge/BSC_Testnet-161b22?style=flat-square&logo=binance&logoColor=F3BA2F" />
+<br/><br/>
+</td>
+</tr>
 <tr>
 <td colspan="2" align="center" valign="top">
 <br/>
@@ -142,3 +164,4 @@ I build small, well-tested tools for <b>NFT analytics</b>, <b>RPC infra</b> and 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:5B21B6,100:0d1117&height=100&section=footer" width="100%" />
 
 </div>
+
